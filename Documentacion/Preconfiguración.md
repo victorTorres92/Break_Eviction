@@ -20,7 +20,7 @@ Con la siguiente imagen demostramos que se ha realizado correctamente la configu
 
 ## *Editamos el perfil de github para incluir foto, ciudad y universidad:*
 
-A pesar de que ya tenía alguna información enm el perfil, he incluido la ciudad y la universidad como se muestra en la siguiente imagen:
+A pesar de que ya tenía alguna información enm el perfil, he incluido la ciudad y la universidad como se muestra en la siguiente imagen:  
 
 ![](https://github.com/victorTorres92/Break_Eviction/blob/master/Documentacion/img/Img4.png)
 
