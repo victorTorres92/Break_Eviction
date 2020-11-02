@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/break_eviction_2.13-0.1.0-SNAPSHOT.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Desahucio$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Desahucio$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction/Notificacion.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction/Notificacion.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction/Usuario$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction/Usuario$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction/Usuario.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction/Usuario.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction/Aplicacion.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction/Aplicacion.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Break_Eviction/Desahucio.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Break_Eviction/Desahucio.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Desahucio.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Escritorio/Master/CC/Break_Eviction/target/scala-2.13/classes/Desahucio.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
