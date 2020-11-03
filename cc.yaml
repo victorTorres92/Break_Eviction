@@ -1,4 +1,6 @@
-Aplicacion: Break_Eviction/src/main/scala/Aplicacion.scala
-Desahucio: Break_Eviction/src/main/scala/Desahucio.scala
-Usuario: Break_Eviction/src/main/scala/Usuario.scala
-Notificacion: Break_Eviction/src/main/scala/Notificacion.scala
+entidad:
+  - Break_Eviction/src/main/scala/Aplicacion.scala
+  - Break_Eviction/src/main/scala/Desahucio.scala
+  - Break_Eviction/src/main/scala/Usuario.scala
+  - Break_Eviction/src/main/scala/Notificacion.scala
+
